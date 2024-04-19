@@ -1,4 +1,4 @@
-<header>Курсовой проект к модулю «Ручное тестирование веб-приложений»</header>
+<h1>Курсовой проект к модулю «Ручное тестирование веб-приложений»</h1>
 
 <h2>Решение</h2><a href="https://docs.google.com/spreadsheets/d/1Sr_SmoL_Ya9nrCDhjY4YYwF53EmSHwJqNATR9hVb9I4/edit?usp=sharing">IQA Diploma_Михаил_Нефёдов_QAMID46</a>.
 
